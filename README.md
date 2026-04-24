@@ -11,12 +11,11 @@
 
 ## 🚀 About Me
 - 💻 Backend-focused Full Stack Developer  
-- ⚙️ متخصص در طراحی و توسعه سیستم‌های مقیاس‌پذیر  
-- 🔌 Experienced in API development & system integration  
-- 🌍 علاقه‌مند به معماری نرم‌افزار و سیستم‌های توزیع‌شده  
-- 🧠 تمرکز روی performance، clean code و automation  
+- ⚙️ Experienced in designing and developing scalable, production-grade systems  
+- 🔌 Strong background in RESTful API design and complex system integrations  
+- 🌍 Passionate about software architecture and distributed systems  
+- 🧠 Focused on performance optimization, clean code, and automation  
 
----
 
 ## 🛠 Tech Stack
 
