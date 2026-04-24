@@ -1,23 +1,20 @@
 <h1 align="center">Hi 👋, I'm Alireza Mirfakhraei</h1>
-<h3 align="center">Full Stack Developer | PHP & Laravel Specialist | Software Engineer</h3>
+<h3 align="center">Full Stack Developer | Backend Engineer (PHP, Laravel, Go)</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link">
+  <a href="https://www.linkedin.com/in/alireza-mirfakhraei-a60b89216">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 💻 Full Stack Developer with focus on **PHP / Laravel / JavaScript**
-- 🏢 Experienced in production-level systems (enterprise & media environments)
-- 📺 Worked on high-scale projects including national TV systems
-- 🌍 Passionate about scalable backend architecture & clean code
-- 🧠 Always learning system design, performance optimization, and DevOps
+- 💻 Backend-focused Full Stack Developer  
+- ⚙️ متخصص در طراحی و توسعه سیستم‌های مقیاس‌پذیر  
+- 🔌 Experienced in API development & system integration  
+- 🌍 علاقه‌مند به معماری نرم‌افزار و سیستم‌های توزیع‌شده  
+- 🧠 تمرکز روی performance، clean code و automation  
 
 ---
 
@@ -26,15 +23,16 @@
 ### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=for-the-badge&logo=laravel&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
-### Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Systems & Architecture
+- RESTful API Design  
+- Distributed Systems  
+- System Integration (ERP Sync)  
+- Scalable Backend Architecture  
 
 ---
 
@@ -59,9 +57,50 @@
 ---
 
 ## 📌 Featured Projects
-- 🔹 **Enterprise Backend System** – Laravel + Microservices Architecture
-- 🔹 **Media Content Platform** – High traffic TV-related system
-- 🔹 **RESTful APIs Suite** – Secure and scalable API design
+
+### 🔹 Scarpin Application (Car Service Platform)
+- Developed backend for periodic vehicle service management  
+- Built scalable RESTful APIs using Laravel  
+- Service scheduling and maintenance tracking  
+- Optimized for performance and clean architecture  
+
+---
+
+### 🔹 Studio Reservation System
+- Designed a reservation platform for scheduling productions  
+- Implemented multi-level approval workflow  
+- Prevented booking conflicts with real-time logic  
+- Built with scalable backend architecture  
+
+---
+
+### 🔹 E-Commerce System + Holoo Integration
+- Developed online shop with ERP synchronization  
+- Inventory sync across multiple branches  
+- Automated invoice generation and discount calculation  
+- Real-time order processing without manual intervention  
+- Global ordering with centralized stock management  
+
+---
+
+### 🔹 RESTful API Suite
+- Designed secure and scalable APIs  
+- Authentication & authorization systems  
+- Performance optimization for production use  
+
+---
+
+### 🔹 Ticketing System
+- Built a support ticketing platform  
+- Request tracking, prioritization, and categorization  
+- Designed for scalability and maintainability  
+
+---
+
+### 🔹 Asa Gallery (E-Commerce Platform)
+- Developed custom online store  
+- Product management and order workflow  
+- Optimized for performance and UX  
 
 ---
 
@@ -72,9 +111,17 @@
 
 ---
 
-## ⚡ Fun Fact
-> I build systems that scale before they even need to scale.
+## 🧠 Core Expertise
+- Backend Architecture (Laravel & Go)  
+- API Design & Integration  
+- High-scale System Design  
+- ERP & Financial Systems Integration  
 
 ---
 
-<p align="center">🔥 Always improving. Always building.</p>
+## ⚡ Philosophy
+> Build systems that scale before they need to scale.
+
+---
+
+<p align="center">🔥 Always building. Always improving.</p>
