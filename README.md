@@ -57,51 +57,36 @@
 
 ## 📌 Featured Projects
 
+### 🔹 Asa Gallery (E-Commerce Platform)
+- Developed a full-featured e-commerce system  
+- Implemented real-time inventory synchronization across multiple branches  
+- Automated invoice generation and discount handling for wholesale customers  
+- Integrated with external accounting systems for seamless order processing  
+- Designed for high availability and zero manual intervention  
+
+---
+
 ### 🔹 Scarpin Application (Car Service Platform)
 - Developed backend for periodic vehicle service management  
 - Built scalable RESTful APIs using Laravel  
-- Service scheduling and maintenance tracking  
-- Optimized for performance and clean architecture  
+- Implemented service scheduling and maintenance tracking  
+- Focused on clean architecture and performance optimization  
 
 ---
 
 ### 🔹 Studio Reservation System
-- Designed a reservation platform for scheduling productions  
-- Implemented multi-level approval workflow  
-- Prevented booking conflicts with real-time logic  
-- Built with scalable backend architecture  
+- Designed a scheduling platform for managing studio reservations  
+- Implemented multi-level approval workflows  
+- Prevented booking conflicts using real-time validation logic  
+- Built scalable backend for handling concurrent requests  
 
 ---
 
-### 🔹 E-Commerce System + Holoo Integration
-- Developed online shop with ERP synchronization  
-- Inventory sync across multiple branches  
-- Automated invoice generation and discount calculation  
-- Real-time order processing without manual intervention  
-- Global ordering with centralized stock management  
-
----
-
-### 🔹 RESTful API Suite
-- Designed secure and scalable APIs  
-- Authentication & authorization systems  
-- Performance optimization for production use  
-
----
-
-### 🔹 Ticketing System
-- Built a support ticketing platform  
-- Request tracking, prioritization, and categorization  
-- Designed for scalability and maintainability  
-
----
-
-### 🔹 Asa Gallery (E-Commerce Platform)
-- Developed custom online store  
-- Product management and order workflow  
-- Optimized for performance and UX  
-
----
+### 🔹 ICWorldElect (Electronics E-Commerce Platform)
+- Developed an online platform for electronic components distribution  
+- Designed product catalog and order management system  
+- Optimized for handling large inventory datasets  
+- Built scalable backend to support international users and orders  
 
 ## 📈 Activity Graph
 <p align="center">
